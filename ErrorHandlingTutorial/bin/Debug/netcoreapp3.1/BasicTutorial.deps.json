@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BasicTutorial/1.0.0": {
+        "dependencies": {
+          "SomeRandomService": "1.0.0"
+        },
+        "runtime": {
+          "BasicTutorial.dll": {}
+        }
+      },
+      "SomeRandomService/1.0.0": {
+        "runtime": {
+          "SomeRandomService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicTutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SomeRandomService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

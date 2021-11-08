@@ -1,0 +1,16 @@
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\BasicTutorial.exe
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\BasicTutorial.deps.json
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\BasicTutorial.runtimeconfig.json
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\BasicTutorial.runtimeconfig.dev.json
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\BasicTutorial.dll
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\BasicTutorial.pdb
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\SomeRandomService.dll
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\bin\Debug\netcoreapp3.1\SomeRandomService.pdb
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.csproj.AssemblyReference.cache
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.AssemblyInfoInputs.cache
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.AssemblyInfo.cs
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.csproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.dll
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.pdb
+C:\Users\jesus.ortega\source\repos\ErrorHandlingTutorial\ErrorHandlingTutorial\obj\Debug\netcoreapp3.1\BasicTutorial.genruntimeconfig.cache
