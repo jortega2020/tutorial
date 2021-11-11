@@ -32,6 +32,15 @@ namespace SomeRandomService.Extension
                 .ToList();
         }
 
+        public static List<List<T>> ChunkBy<T>(this List<T> source, int chunkSize)
+        {
+            return source
+                .Select((x, i) => new { Index = i, Value = x })
+                .GroupBy(x => x.Index / chunkSize)
+                .Select(x => x.Select(v => v.Value).ToList())
+                .ToList();
+        }
+
         public static string GetFullName(this Person person)
         {
             return $"{person.Name} {person.LastName}";
